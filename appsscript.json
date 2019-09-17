@@ -9,7 +9,7 @@
     "companyUrl": "https://developers.google.com/datastudio/",
     "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
     "supportUrl": "https://github.com/google/datastudio/issues",
-    "description": "Get the npm package download counts.",
+    "description": "Get npm package download counts.",
     "sources": ["npm"]
   }
 }
