@@ -1,7 +1,6 @@
 {
   "timeZone": "America/Chicago",
-  "dependencies": {
-  },
+  "dependencies": {},
   "exceptionLogging": "STACKDRIVER",
   "dataStudio": {
     "name": "npm Downloads - From Codelab",
@@ -10,7 +9,7 @@
     "companyUrl": "https://developers.google.com/datastudio/",
     "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
     "supportUrl": "https://github.com/google/datastudio/issues",
-    "description": "Get npm package download counts.",
+    "description": "Get the npm package download counts.",
     "sources": ["npm"]
   }
 }
