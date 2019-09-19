@@ -1,4 +1,4 @@
-[!https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonsta-logo.png](https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonsta-logo.png)
+![Appmonsta logo](https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonsta-logo.png)
 # Appmonsta + Google Analytics / Adwords
 
 This community connector connects your Google Adwords data (through Google Analytics) to extend more information into ad placement throug the Google Display Network in mobile apps.
@@ -10,4 +10,4 @@ App ID: `1234567890`
 
 By cross referencing this data with Appmonsta, you're able to understand more deeply what are the types of apps, how popular they are, and if they fit your target audience.
 
-[!https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonstmob.png](https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonstmob.png)
+![Screencap of combined Adword and Appmonsta data](https://raw.githubusercontent.com/kyletaylored/appmonsta/master/assets/appmonstmob.png)
